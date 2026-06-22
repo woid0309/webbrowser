@@ -1,6 +1,6 @@
 # 재획용
 
-[![GitHub](https://img.shields.io/badge/download-재획용_v1.0.zip-blue?logo=github)](https://github.com/woid0309/webbrowser/raw/main/%EC%9E%AC%ED%9A%8D%EC%9A%A9_v1.0.zip)
+[![GitHub](https://img.shields.io/badge/download-재획용_v1.0.zip-blue?logo=github)](https://github.com/woid0309/webbrowser/raw/master/%EC%9E%AC%ED%9A%8D%EC%9A%A9_v1.0.zip)
 
 PySide6 기반 웹 브라우저 + 타이머 애플리케이션
 
