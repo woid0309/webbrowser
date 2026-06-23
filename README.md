@@ -1,5 +1,7 @@
 # 재획용
 
+[![Release](https://img.shields.io/badge/release-v1.0-blue?logo=github)](https://github.com/woid0309/webbrowser/releases/tag/v1.0)
+
 PySide6 기반 웹 브라우저 + 카운트다운 타이머 오버레이 애플리케이션
 
 ## 기능
